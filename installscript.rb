@@ -1,4 +1,4 @@
-class Installscript < Formula
+class HomebrewAllApps < Formula
   desc ""
   homepage ""
   url "https://github.com/joerandazzo76/homebrew-all_apps/archive/refs/tags/v1.0.0.tar.gz"
